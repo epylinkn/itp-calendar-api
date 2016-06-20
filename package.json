@@ -10,8 +10,10 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "cheerio": "^0.20.0",
     "ejs": "2.4.1",
-    "express": "4.13.3"
+    "express": "4.13.3",
+    "request-promise": "^3.0.0"
   },
   "repository": {
     "type": "git",
